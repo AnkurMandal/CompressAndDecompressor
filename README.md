@@ -8,7 +8,7 @@ The compressor component of this utility employs advanced algorithms to reduce t
 
 # Decompressor:
 The decompressor module serves as a counterpart to the compressor, enabling users to restore their compressed files back to their original state. With the help of the decompressor, users can effortlessly retrieve their files that were previously compressed using the utility’s compression feature.
-
+# Feature
 This project offers a user-friendly interface implemented using Java Swing, providing an intuitive experience for users to effectively manage their files through compression and decompression operations.
 
 Overall, the “File Compression and Decompression Utility” project enhances file management efficiency by reducing file sizes, saving storage space, and facilitating easy file sharing while ensuring seamless file restoration through the decompression process.
